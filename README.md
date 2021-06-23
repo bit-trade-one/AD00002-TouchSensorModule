@@ -1,11 +1,12 @@
-# -ADXXXXX-Template
+# -AD00002-静電容量式タッチセンサーモジュール
 
-## ここに見出し
+## 「触れる」事によって動作する、新たな入力インターフェース
 
-![タイトル画像のURLを右のカッコに]()
+![タイトル画像のURLを右のカッコに](https://cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_696/https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/3913162fdeffee1e3f192d6c28110d9c.png)
 
-「●●●●●」はほにゃららするためのなんちゃらボード。  
-この製品を使用する事でもにょもにょがぺけぺけできる。  
+触れるだけで反応するスイッチとして利用出来る「静電容量式タッチセンサモジュール」
+センサ部に人が触れる際の静電容量の変化を検知し「触れる」事によって動作する新たな入力インターフェースです。
+電源と信号線を繋ぐだけで、直ぐにタッチセンサ（スイッチ）として利用する事ができるモジュールセットです。
 
 <!--
 改行する場合、文末に半角スペース2個を置く
@@ -47,52 +48,17 @@ exp.
 各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
 -->
 
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
-
-## [マニュアルはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
-
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
-
-## [ファームウェアはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
-
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
-
-### [ライブラリはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
-
-### [サンプルコードはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
-
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
-
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware_source/)
-
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
-
-### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
+# [製品の詳細はこちら](https://bit-trade-one.co.jp/product/module/ad00002/) 
 
 
-## 作例
-
-[BTO公式]()  
-[Twitter作例1]()  
-[Twitter作例2]()  
-[ブログ作例1]()  
-[ブログ作例1]()  
-
-## 雑誌掲載情報
-
-[ラズパイマガジンXX年Y月号]()  
-[Pc Watch]()
 
 ## 製品仕様
-    【対応OS】Windows7以降
-    【サイズ】W16×D20×H5mm
-    【重量】約1g
-    【入力点数】12(デジタル)
-    【コネクタ】USBマイクロB
-    【電源】5V (USBマイクロB)
-    【使用温度】0 ～ 40℃（結露なきこと）
-    【保証期間】 1年間
-    【付属品】保証書 1部
-    【生産国】Made in Japan
+製品名：静電容量式タッチセンサモジュール
+タッチセンサ方式：静電容量式
+スイッチ点数：3
+スイッチ動作：「モメンタリ／オルタネイト」を切り替え可能。正論理／負論理を切り替え可能
+出力 ：High時Vdd ／ Low時0V（最大電流25mAまで）
+予備ピン ：3ピン
+動作電圧：3V～5.5V
+基板部サイズ：W87×D25×H2.59mm（突起部ふくまず）
+梱包内容：本体モジュール/マニュアル
