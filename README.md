@@ -49,10 +49,10 @@ exp.
 -->
 
 # [製品の詳細はこちら](https://bit-trade-one.co.jp/product/module/ad00002/) 
-
+<!--リンク切れ
 ・動作原理　[http://docs.google.com/View?id=ddqr9q7z_39f49xv2pg]  
 ・ソフトウェア更新 https://docs.google.com/document/d/1yF9C0r7fXOG8mJRJamf89JZ4ehLIAxMMSO422eJWb3U]  
-
+-->
 
 
 ## 製品仕様
